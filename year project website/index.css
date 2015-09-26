@@ -1,0 +1,25 @@
+﻿body 
+{
+    background-color: #b9b9b9;
+}
+
+ul
+{
+    background-color: #424242;
+    text-align: center;
+    padding: 20px;
+}
+
+ul li
+{
+    display: inline;
+    padding: 3px;
+    list-style-type: none;
+    padding: 5px;
+}
+
+ul li a
+{
+    text-decoration: none;
+    color: Red;
+}
