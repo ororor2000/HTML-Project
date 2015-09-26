@@ -26,7 +26,7 @@
                     <li><a href="Riglster.aspx">register</a></li>                      
                 </ul>
             </nav>
-    <form id="form1" runat="server" dir="rtl" style="text-align: center">
+    <form id="form1" runat="server" dir="rtl">
     <div>
     <asp:label runat="server" text="Label">הכנס שם פרטי:</asp:label>
         <asp:TextBox ID="Fname" runat="server"></asp:TextBox>
